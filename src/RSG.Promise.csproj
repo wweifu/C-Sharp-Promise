@@ -11,5 +11,6 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>C-Sharp-Promise.snk</AssemblyOriginatorKeyFile>
+    <Platforms>AnyCPU;x86</Platforms>
   </PropertyGroup>
 </Project>
